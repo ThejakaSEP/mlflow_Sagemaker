@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thejakamahaulpatha/Desktop/Break/deploy-ml-mlflow-aws/mlruns/122030872860642476/7bf01973f8c34a088d963279ef617c8f/artifacts
+end_time: 1681700160285
+entry_point_name: ''
+experiment_id: '122030872860642476'
+lifecycle_stage: active
+run_id: 7bf01973f8c34a088d963279ef617c8f
+run_name: My model experiment
+run_uuid: 7bf01973f8c34a088d963279ef617c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681700157436
+status: 3
+tags: []
+user_id: thejakamahaulpatha
